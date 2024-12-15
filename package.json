@@ -28,12 +28,14 @@
     "@nextui-org/dropdown": "^2.3.7",
     "@nextui-org/system": "^2.4.4",
     "@nextui-org/theme": "^2.4.3",
+    "@t3-oss/env-nextjs": "^0.11.1",
     "framer-motion": "^11.14.4",
     "lucide-react": "^0.468.0",
     "next": "15.1.0",
     "next-themes": "^0.4.4",
     "react": "19.0.0",
-    "react-dom": "19.0.0"
+    "react-dom": "19.0.0",
+    "zod": "^3.24.1"
   },
   "devDependencies": {
     "@commitlint/cli": "^19.6.1",
